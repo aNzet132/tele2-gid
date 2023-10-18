@@ -211,3 +211,20 @@ html, body{
     padding: 18px 16px;
     box-sizing: border-box;
 }
+.mixx p{
+    color: black;
+    font-size: 25px;
+    padding: 10px;
+}
+.mixx h2{
+    color: black;
+}
+.mixx_2 {
+    height: 448px;
+    width: 100%;
+    background-color: #FFAF0F;
+}
+.mixx a{
+    color: black;
+    border: 3px solid black ;
+}
